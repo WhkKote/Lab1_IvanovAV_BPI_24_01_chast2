@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_IvanovAV_BPI_24_01_chast2", "Lab1_IvanovAV_BPI_24_01_chast2\Lab1_IvanovAV_BPI_24_01_chast2.csproj", "{BEC74487-B260-4A89-AA83-0037A9500497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC74487-B260-4A89-AA83-0037A9500497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC74487-B260-4A89-AA83-0037A9500497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC74487-B260-4A89-AA83-0037A9500497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC74487-B260-4A89-AA83-0037A9500497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF71826D-601E-4CC4-B398-9F33E760F3C5}
+	EndGlobalSection
+EndGlobal
